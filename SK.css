@@ -1,0 +1,59 @@
+.winner {
+  color: green;
+}
+
+body {
+  background-color: #beef00;
+}
+
+.group {
+  background-color: black;
+  border-color: black;
+  color: aquamarine;
+  width: 150px;
+}
+
+.display-1 {
+  font-size: 8rem !important;
+}
+
+.btn-custom {
+  background-color: black;
+  color: aquamarine;
+}
+#dash {
+  color: whitesmoke;
+}
+
+#playTo {
+  width: 30%;
+}
+
+#playingTo {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  /* background-color: black;
+  color: whitesmoke; */
+}
+
+#reset {
+  width: 150px;
+  background-color: black;
+  color: aquamarine;
+}
+
+.container .container {
+  height: 300px !important;
+  max-width: 300px !important;
+  width: 50%;
+  border-radius: 50%;
+}
+
+.border {
+  border-width: 3px !important;
+}
+.navbar-brand {
+  font-family: "Bebas Neue", cursive !important;
+  font-size: xx-large;
+  letter-spacing: 1.5px;
+}
